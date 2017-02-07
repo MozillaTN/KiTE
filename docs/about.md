@@ -5,7 +5,7 @@ title: About MozillaTN ClubName
 permalink: /about/
 ---
 
-Mozilla KiTE is a volunteer community functioning under Mozilla Tamilnadu.
+KiTE Mozilla is a volunteer community functioning under Mozilla Tamilnadu.
 
 We believe in keeping the power of web in people’s hands. We envision a world where web is **free and fair**.
 
