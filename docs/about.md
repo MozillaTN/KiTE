@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: About
-title: About MozillaTN ClubName
+title: About KiTE Mozilla
 permalink: /about/
 ---
 
