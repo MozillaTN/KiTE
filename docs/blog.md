@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MozillaTN ClubName blog
+title: KiTE Mozilla blog
 navigation_title: Blog
 permalink: /blog/
 ---
