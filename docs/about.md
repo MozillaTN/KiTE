@@ -3,6 +3,7 @@ layout: page
 navigation_title: About
 title: About KiTE Mozilla
 permalink: /about/
+cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 
 KiTE Mozilla is a volunteer community functioning under Mozilla Tamilnadu.
