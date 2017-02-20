@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "CoderDojo-Feb-Session"
-cover: "../assets/club-old-logo.png"
+cover: "../assets/cdc.png"
 date:   2017-02-19
 
 #event organiser details
