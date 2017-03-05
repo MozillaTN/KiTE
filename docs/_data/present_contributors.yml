@@ -8,19 +8,19 @@
 -   name: Pavithra Roselin
     twitter: RoselinPavithra
     description: added contributor
-    photo: null
+    photo: "http://www.gravatar.com/avatar/1ec43d74dbf5f91480c812e999d52709?s=256"
     contribution: RUST
     
 -   name: Aravindhan
     twitter: null
     description: added contributor
-    photo: "http://www.gravatar.com/avatar/d72bff2fe4c3083e1a469bd77bad2d15"
+    photo: "http://www.gravatar.com/avatar/d72bff2fe4c3083e1a469bd77bad2d15?s=256"
     contribution: QA
     
 -   name: Aravind
     twitter: null
     description: added contributor
-    photo: "http://www.gravatar.com/avatar/1ce0444e09ff1fcc756b888d10445013"
+    photo: "http://www.gravatar.com/avatar/1ce0444e09ff1fcc756b888d10445013?s=256"
     contribution: QA
 
 -   name: Akksaya Rajasri
