@@ -15,7 +15,7 @@ categories: "event"
 
 ---
 Hello Everyone!
-Coming Wednesday, 14th April, We will have our weekly Bug triaging day.We Will be triaging the bugs on the latest Firefox browsers. Check out the detailed instructions via this <a href="https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day-20170410">etherpad</a>
+Coming Friday, 14th April, We will have our weekly Bug triaging day.We Will be triaging the bugs on the latest Firefox browsers. Check out the detailed instructions via this <a href="https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day-20170410">etherpad</a>
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 Participants Kindly RSVP by commenting your name along with your Twitter handle, Telegram handler and FB Profile link.
 
