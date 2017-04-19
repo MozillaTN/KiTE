@@ -4,10 +4,16 @@ Sriram:
     twitter: RamjiSriram23
     description :
     photo: "http://www.gravatar.com/avatar/39ddd02374d1687804a2dbd1be5f1656?s=256"
-    contribution: RUST
+    contribution: RUST and QA
 Aravind:
     name: Aravind
     twitter: Aravind007Arul
     description :
     photo: "http://www.gravatar.com/avatar/1ce0444e09ff1fcc756b888d10445013?s=256"
     contribution: QA
+Pavithra Roselin:
+    name: Pavithra Roselin
+    twitter: RoselinPavithra
+    description :
+    photo: "http://www.gravatar.com/avatar/1ec43d74dbf5f91480c812e999d52709?s=256"
+    contribution: RUST and QA
