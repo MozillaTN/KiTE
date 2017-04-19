@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Result of Bug Triage Day-20170410"
+title:  "Result of Bug Verification Day-20170419"
 cover: "../assets/qmo.jpeg"
 #event organiser details
 organiser: "Aravind"
