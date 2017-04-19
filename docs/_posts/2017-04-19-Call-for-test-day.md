@@ -9,7 +9,7 @@ start_time: "06:00"
 end_time: "24:00"
 
 #event organiser details
-organiser: "Aravind"
+organiser: "Aravind Arul"
 
 categories: "event"
 
