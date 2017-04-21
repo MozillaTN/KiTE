@@ -9,7 +9,7 @@
     twitter: RoselinPavithra
     description: added contributor
     photo: "http://www.gravatar.com/avatar/1ec43d74dbf5f91480c812e999d52709?s=256"
-    contribution: RUST
+    contribution: RUST and QA
     
 -   name: Aravindhan
     twitter: null
@@ -58,7 +58,12 @@
     description: added contributor
     photo: "http://www.gravatar.com/avatar/84504529d583f727f0c79abfdbe49514?s=256"
     contribution: QA
-
+   
+-   name: Vignesh kumar
+    twitter: null
+    description: added contributor
+    photo: "http://www.gravatar.com/avatar/b38068951836a5054363c654129fed02?s=256"
+    contribution: QA
 
    
 
