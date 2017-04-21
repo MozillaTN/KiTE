@@ -65,6 +65,11 @@
     photo: "http://www.gravatar.com/avatar/b38068951836a5054363c654129fed02?s=256"
     contribution: QA
 
+-   name: Sreerag
+    twitter: 66sree
+    description: added contributor
+    photo: "http://www.gravatar.com/avatar/9be3a4e8b45e7b63023b56d14c78b43b?s=256"
+    contribution: QA and RUST
    
 
 
