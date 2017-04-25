@@ -19,12 +19,12 @@ Hello mozillian's!
 On 28th April,Our Favorite test day is back.It's very easy than other testings.
 
 The test conditions will be given like this
-1. Go to this link.
-2. Play the video.
-3.mute the video.
+ 1. Go to this link.
+ 2. Play the video                       
+ 3.mute the video.
 
-Result : the video should be muted.
-If u get the result then the testcase pass es
+Result : the video should be muted.   
+If u get the result then the testcase passes
 
 Check out the detailed instructions via this <a href="https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_54_Beta_3_Testday">etherpad</a>.
 It will be a great learning and contributing experience for everyone. 
