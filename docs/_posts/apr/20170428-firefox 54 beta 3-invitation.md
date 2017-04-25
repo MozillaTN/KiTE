@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Bug Triaging day invitation"
+title:  "Test day invitation"
 cover: "../assets/qmo.jpeg"
 date:   2017-04-28
 start_time: "06:00"
@@ -18,9 +18,9 @@ Hello Everyone!
 On 28th April, Our favorite test is back. We will given certain test conditions
 
 The test conditions will be given like this 
-1. Go to this link 
-2. Play the video 
-3.mute the video 
+1. Goto the link
+2. Play the video
+3. Mute the video
 Result : the video should be muted
 If u get the result then the testcase passes
 
