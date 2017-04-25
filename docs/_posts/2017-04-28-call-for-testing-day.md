@@ -19,9 +19,11 @@ Hello mozillian's!
 On 28th April,Our Favorite test day is back.It's very easy than other testings.
 
 The test conditions will be given like this
- 1. Go to this link.
- 2. Play the video                       
- 3.mute the video.
+1. Go to this link.
+2. Pl
+ay the video                       
+
+3.mute the video.
 
 Result : the video should be muted.   
 If u get the result then the testcase passes
