@@ -4,7 +4,7 @@ layout: post
 title:  "Result of Firefox 54 Beta 7 Testday"
 cover: "../assets/qmo.jpeg"
 #event organiser details
-organiser: "Aravind"
+organiser: "Sriram"
 categories: "blog"
 ---
 **Hello World!**
