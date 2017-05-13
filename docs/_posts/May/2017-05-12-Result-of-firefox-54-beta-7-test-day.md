@@ -11,9 +11,9 @@ categories: "blog"
 <p>Our Favorite firefox 54 beta 7 test day was organized at MAY 12th 2017.</p>
 <p>With these 2 awesome contributors, the firefox 54 beta 7 test day was successfully done.</p>
 
-- [Sriram](facebook.com/imSriramB)
+- [Sriram](http://facebook.com/imSriramB)
 
-- [Vignesh kumar](facebook.com/vijayvignesh82)
+- [Vignesh kumar](http://facebook.com/vijayvignesh82)
 <p>No: of Test case passed:2 </p>
 Thank you everyone for showing contribution towards testing :)
 Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_54_Beta_7_Testday). Let's continue to participate in future firefox test days and help to improve Firefox and it's users.
