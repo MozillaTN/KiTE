@@ -13,7 +13,7 @@ categories: "blog"
 
 - [Sriram](http://twitter.com/imSriramB)
 
-- [Terry John](http://twitter.com)
+- [Terry John](http://twitter.com/terryjohnpaul20)
 
 <p>No: of Test case passed:2 </p>
 Thank you everyone for showing contribution towards testing :)
