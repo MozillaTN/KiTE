@@ -15,7 +15,7 @@ categories: "event"
 
 ---
 Hello Everyone!
-On 28th April, We will have our weekly Bug verification day.We Will be testing the bugs on the latest Firefox browsers. 
+On 28th June, We will have our weekly Bug verification day.We Will be testing the bugs on the latest Firefox browsers. 
 Check out the detailed instructions via this <a href="https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170628">etherpad</a>.
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 Participants Kindly RSVP by commenting your name along with your Twitter handle, Telegram handler and FB Profile link.
