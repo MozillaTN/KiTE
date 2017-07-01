@@ -12,7 +12,7 @@ categories: "blog"
 **Hello All!**
 
 <p>The  Bug Verification day took place on June 28, 2017.</p>
-<p>With these 1 awesome contributors, the Bug Verification day was successfully done.</p>
+<p>With the 1 awesome contributor, the Bug Verification day was successfully done.</p>
 
 - [Aravind](https://twitter.com/Aravind007Arul)
 
