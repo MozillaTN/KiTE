@@ -1,5 +1,5 @@
+---
 layout: post
-
 #event information
 title:  "Result of Bug Verification Day-20170628"
 cover: "../assets/qmo.jpeg"
