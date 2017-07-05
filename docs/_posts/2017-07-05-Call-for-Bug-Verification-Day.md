@@ -2,7 +2,7 @@
 layout: post
 ​
 #event information
-title:  "Test Day Invitation"
+title:  "Bug Verification Day Invitation"
 cover: "../assets/qmo.jpeg"
 date:   2017-07-05
 start_time: "06:00"
