@@ -19,5 +19,5 @@ categories: "blog"
 
 <p>No: of bugs verefied : 1 </p>
 Thank you everyone for participating :)
-Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170628). Let's continue to participate in future Bug Verification days and help Firefox and it's users.
+Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170705). Let's continue to participate in future Bug Verification days and help Firefox and it's users.
 <p>Happy Bug Verification!</p>
