@@ -11,12 +11,6 @@
     photo: "http://www.gravatar.com/avatar/1ec43d74dbf5f91480c812e999d52709?s=256"
     contribution: RUST and QA
     
--   name: Aravindhan
-    twitter: null
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/d72bff2fe4c3083e1a469bd77bad2d15?s=256"
-    contribution: QA
-    
 -   name: Aravind - QA Track Lead
     twitter: Aravind007Arul 
     description: added contributor
@@ -71,14 +65,3 @@
     photo: "http://www.gravatar.com/avatar/9be3a4e8b45e7b63023b56d14c78b43b?s=256"
     contribution: QA and RUST
     
--   name: Ganesh M
-    twitter: GaneshM635
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/27a70a78d6e415544a31c3b3097a5c8e?s=256"
-    contribution: QA
-   
--   name: Sampath Kumar PN
-    twitter: Sampath54923353
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/85b4495c09a6220141430ebb8dcecd8f?s=256"
-    contribution: RUST
