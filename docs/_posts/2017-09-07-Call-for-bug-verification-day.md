@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Bug Verification Dayinvitation"
 cover: "../assets/qmo.jpeg"
-date:   2017-09-01
+date:   2017-09-07
 start_time: "06:00"
 end_time: "24:00"
 
