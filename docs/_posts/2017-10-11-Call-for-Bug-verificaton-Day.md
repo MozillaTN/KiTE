@@ -16,7 +16,7 @@ categories: "event"
 ---
 Hello Everyone!
 
-Today,We have our Bug Verification day.Check out the detailed instructions via this <a href="https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20171011">etherpad</a>
+Today,We have our Bug Verification day.Check out the detailed instructions via this <a href="https://public.etherpad-mozilla./p/MozillaIN_QA_Bug_Verification_Day_20171011">etherpad</a>
 
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 
