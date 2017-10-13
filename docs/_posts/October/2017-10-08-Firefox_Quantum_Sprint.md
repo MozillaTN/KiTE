@@ -5,7 +5,7 @@ layout: post
 title:  "Firefox Quantum Sprint"
 cover: "../assets/Quantum.jpg"
 #event organiser details
-organiser: ""
+organiser: "Sriram"
 
 categories: "blog"
 ---
@@ -30,7 +30,7 @@ On the evening of 8th October2017, Mozillians from Coimbatore gathered at Prozon
 </ul>
 
 <h3>What we did?</h3>
-<p>We the contributors of Mozilla from Coimbatore, gathered at Prozone and tested the compatibility of Quantum Browser. We were <i>17 people</i> and we tested nearly <i>52 websites</i>, in which 50 were Tamil websites. The types of websites tested were Educational (Anna university), Songs & movies, Organizations, health science (Tamilhealth science), News and blogs (eluthu, techtamil), Shopping (chennai silks), Magazines (Vivekdan). We reported <i>19 bugs</i> to webcompat.</p>
+<p>We the contributors of Mozilla from Coimbatore, gathered at Prozone and tested the compatibility of Quantum Browser. We were <i>17 people</i> and we tested nearly <i>52 websites</i>, in which 50 were Tamil websites. The types of websites tested were Educational (Anna university), Songs & movies, Organizations, health science (Tamilhealth science), News and blogs (eluthu, techtamil), Shopping (chennai silks), Magazines (Vikadan). We reported <i>19 bugs</i> to webcompat.</p>
 
 <h3>Contributions from KGISL</h3>
 <p><i>4 Awesome contributors</i> from KGiSL Mozilla Club participated in it and reported <i>3 bugs</i>.</p>
