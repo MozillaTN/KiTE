@@ -35,18 +35,6 @@
     photo: "http://www.gravatar.com/avatar/4edba2ae6a46426c90c4d804ca728031?s=256"
     contribution: QA
 
--   name: Bhavadharini
-    twitter: null
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/bdf8dccf8e99fca51f7359c392d55e33?s=256"
-    contribution: QA
-    
--   name: Meganisha
-    twitter: null
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/83a3a4becc69ed733e885ea52f5431bc?s=256"
-    contribution: QA
-
 -   name: Swathika
     twitter: null
     description: added contributor
@@ -58,10 +46,3 @@
     description: added contributor
     photo: "http://www.gravatar.com/avatar/b38068951836a5054363c654129fed02?s=256"
     contribution: QA
-
--   name: Sreerag
-    twitter: 66sree
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/9be3a4e8b45e7b63023b56d14c78b43b?s=256"
-    contribution: QA and RUST
-    
