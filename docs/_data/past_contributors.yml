@@ -3,4 +3,11 @@
     description: added contributor
     photo: "http://www.gravatar.com/avatar/0a64550c6ab0c38aac73018d75197062?s=256"
     contribution: RUST
+    
+-   name: Sreerag
+    twitter: 66sree
+    description: added contributor
+    photo: "http://www.gravatar.com/avatar/9be3a4e8b45e7b63023b56d14c78b43b?s=256"
+    contribution: QA and RUST
+    
 
