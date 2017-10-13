@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Firefox Test day invitation"
+title:  "Firefox 57 Beta 8 Test day invitation"
 cover: "../assets/qmo.jpeg"
 date:   2017-10-13
 start_time: "06:00"
