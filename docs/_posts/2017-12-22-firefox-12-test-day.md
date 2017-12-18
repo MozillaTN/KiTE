@@ -2,9 +2,9 @@
 layout: post
 
 #event information
-title:  "Bug Verification Dayinvitation"
+title:  "Firefox developer test day invitation"
 cover: "../assets/qmo.jpeg"
-date:   2017-12-18
+date:   2017-12-22
 start_time: "06:00"
 end_time: "24:00"
 
