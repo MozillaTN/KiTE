@@ -16,4 +16,22 @@
     photo: "http://www.gravatar.com/avatar/1ec43d74dbf5f91480c812e999d52709?s=256"
     contribution: RUST and QA
     
+-   name: Prakathi
+    twitter: prakathi33
+    description: added contributor
+    photo: "http://www.gravatar.com/avatar/d7c113d4935b2fd2d80832be7e717255?s=256"
+    contribution: QA
+    
+-   name: Roshini
+    twitter: null
+    description: added contributor
+    photo: "http://www.gravatar.com/avatar/4edba2ae6a46426c90c4d804ca728031?s=256"
+    contribution: QA
+
+-   name: Swathika
+    twitter: null
+    description: added contributor
+    photo: "http://www.gravatar.com/avatar/84504529d583f727f0c79abfdbe49514?s=256"
+    contribution: QA
+    
 
