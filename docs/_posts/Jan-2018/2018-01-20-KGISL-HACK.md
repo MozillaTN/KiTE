@@ -18,6 +18,7 @@ Hello Everyone!
 
 On 20th and 21st January 2018, we are conducting **Web Extension Hack**, a workshop on Mozilla Addons, at our campus. We are pleased to invite all to participate and get benefited from the workshop.
 ### Event details
+- *Speaker*: **Viswaparasath KS**, Mozilla Representative, India.
 - *Date*:&nbsp; 20-01-2018 and 21-01-2018 (9 am to 4 pm)
 - *Venue*: Hacker Space,<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;365,KGISL Campus,<br>
