@@ -1,0 +1,77 @@
+---
+layout: post
+
+#event information
+title:  "Global CFP Diversity Day - Feb, 2018"
+cover: "../assets/index.jpg"
+date:   2018-02-03
+start_time: "14:00"
+end_time: "17:00"
+
+#event organiser details
+organiser: "Sriram"
+
+categories: "event"
+
+---
+
+Hello World!
+
+In collaboration with Mozilla TN Community members, we conducted **Global CFP Diversity Day - Feb, 2018** at *KGiSL Institute of Technology*, on 3rd February 2018. The event aimd at encouraging and advising newbie speakers to put together their very first talk proposal and share their own individual perspective on any subject of interest to people in tech.
+
+[Mr. Vigneshwer Dhinakaran](https://twitter.com/dvigneshwer), the speaker of the event gave many tips and tricks for the newbie Tech-Speakers.We discussed on various topics like
+
+- How to Introduce the topic?
+- Slide Preparation
+- Usage of Fonts and Designs in Slides
+- Summarize the content
+- Proposal writing
+  * Short Description
+  * Long Description
+  * Identifying potential Keywords
+  * Session details breakout
+  * Key takeaways with respect to audience perspective
+  * Listing Speaking credentials
+  * Publishing blog series
+- Deck and Talk Preparation
+  * Start off the talk
+  * Creating the storyline
+    * Talking about the bigger picture
+    * Diving into the problem
+    * Providing Different solutions
+    * Demonstration
+    * Leaving the audience with a bigger idea
+  * Preparation
+  * FAQ's
+  * Q&A sessions
+- Feedback parameters
+  * Topic Quality
+  * Information presented
+  * Preparedness
+  * Time Management
+  * Body Language
+  * Supporting materials
+  * Enthusiasm
+- Talk Logistical planning
+  * Backup slides in cloud
+  * Keeping offline versions of cloud
+  * Demos in presentation
+  * Carrying a water bottle
+  * Reaching the location prior to timing
+  
+ After discussing these things, the participants splitted into 5 teams. Each team prepared a proposal and presented to the audience.
+ - Abishek and team - *Smart Grid*
+ - Sriram and team - *Test Driven Development*
+ - Kiruthika Sowbarnika and team - *How to spot a lie* and *Not so boring man with a boring company*
+ - Akksaya Rajasri and team - *Web / Android / Agile development* and *Blue Borne*
+ - Monesh and team - *Chatbots* and *AI*
+ 
+ [Mr. Makilan](https://twitter.com/selva_makilan) gave a speech on how to contribute to mozilla and the benifits of communities and contributions. We ended the session by distributing the swags and Group Photo.
+
+![GRP PIC](https://github.com/MozillaTN/KiTE/blob/master/docs/assets/grpphoto.jpg)
+ 
+ Thanks to all the participants who participated in the event.
+ 
+ Thanks to KGISL management and Mr.Sudharsan for providing resources for conducting the event.
+ 
+ Thanks to Dept. of CSE ,Dept. of ECE of KGISL Institute of Technology, SNS college of Technology for their support.
