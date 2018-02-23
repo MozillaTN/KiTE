@@ -20,7 +20,7 @@ On 24th and 25th February 2018, we are conducting **Web Extension Hack**, a work
 ### Event details
 - *Speaker*: **Viswaparasath KS**, Mozilla Representative, India.
 - *Date*:&nbsp; 24-02-2018 and 25-02-2018 (9 am to 5 pm)
-- *Venue*: Placement Hall Auditorium,<br> 
+- *Venue*: Room Number:201,<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KGISL Institute of Technology,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;365,KGISL Campus,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saravanampatti,<br>
