@@ -5,8 +5,8 @@ layout: post
 title:  "KGISL WebExtension Hack"
 cover: "../assets/addons.jpg"
 date:   2018-02-24
-start_time: "06:00"
-end_time: "24:00"
+start_time: "09:00"
+end_time: "17:00"
 
 #event organiser details
 organiser: "Sriram"
