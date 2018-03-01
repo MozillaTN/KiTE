@@ -23,7 +23,7 @@ Then he started explaining how to create addon with chalk and board. He explaine
 
 ![Session Pic 1](../assets/20180224_144606(0).jpg "During the session, Mr. Viswaprasath")
 
-The topic that we saw on the day was *Context Menus*. We as a team created an addon, which search for the selected word in various search engines and websites. We used context menus that holds different search engine names. When the text is selected and particular search engine name is clicked in the context menu, the search result of the particular word in the particular website is updated in the same tab.
+The topics that we saw on the day were *Context Menus*,*notification*,*Browser action*,*Page Action*. We as a team created an addon, which search for the selected word in various search engines and websites. We used context menus that holds different search engine names. When the text is selected and particular search engine name is clicked in the context menu, the search result of the particular word in the particular website is updated in the same tab.
 
 We successfully created the addon and debugged it with Firefox Nightly and Firefox Quantum browsers. We ended the session by distributing swags to participants.
 
