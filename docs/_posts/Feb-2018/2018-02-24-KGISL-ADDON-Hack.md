@@ -11,7 +11,7 @@ end_time: "17:00"
 #event organiser details
 organiser: "Sriram"
 
-categories: "event"
+categories: "blog"
 
 ---
 Hello World!
