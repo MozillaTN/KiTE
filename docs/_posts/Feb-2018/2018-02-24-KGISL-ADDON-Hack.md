@@ -29,7 +29,7 @@ We successfully created the addon and debugged it with Firefox Nightly and Firef
 
 #### Video of the created addon
 
-![Addon Video](../assets/2018-02-25-22-13-53.mp4 "Working video of Addon created")
+![Addon Video](https://github.com/MozillaTN/KiTE/blob/master/docs/assets/2018-02-25-22-13-53.mp4 "Working video of Addon created")
 
 Thank you every one who participated in the event. 
 
