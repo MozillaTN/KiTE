@@ -5,21 +5,11 @@ Sriram:
     description :
     photo: "http://www.gravatar.com/avatar/39ddd02374d1687804a2dbd1be5f1656?s=256"
     contribution: RUST and QA
-Aravind:
-    name: Aravind
-    twitter: Aravind007Arul
+
+
+Abishek:
+    name: Abishek
+    twitter: haabissm
     description :
-    photo: "http://www.gravatar.com/avatar/1ce0444e09ff1fcc756b888d10445013?s=256"
-    contribution: QA
-Pavithra Roselin:
-    name: Pavithra Roselin
-    twitter: RoselinPavithra
-    description :
-    photo: "http://www.gravatar.com/avatar/1ec43d74dbf5f91480c812e999d52709?s=256"
-    contribution: RUST and QA
-Akksaya:    
-    name: Akksaya Rajasri
-    twitter: akksaya_rajasri
-    description: added contributor
-    photo: "http://www.gravatar.com/avatar/2e98c1a6e707661cdef0becfbb2ce27a?s=256"
+    photo: "http://www.gravatar.com/avatar/c4ce1986e4c5baa263ce5f30b996b135?s=256"
     contribution: QA
