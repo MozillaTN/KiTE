@@ -1,7 +1,7 @@
--   name: Vignesh kumar
+-   name: Abishek
     twitter: null
     description: added contributor
-    photo: "http://www.gravatar.com/avatar/b38068951836a5054363c654129fed02?s=256"
+    photo: null
     contribution: QA
 
 -   name: Shankar
@@ -15,13 +15,7 @@
     description: added contributor
     photo: null
     contribution: QA
-    
--   name: Abishek
-    twitter: null
-    description: added contributor
-    photo: null
-    contribution: QA
-    
+        
 -   name: Arun Kumar
     twitter: null
     description: added contributor
